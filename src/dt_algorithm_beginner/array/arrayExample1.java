@@ -1,4 +1,4 @@
-package dt_algorithm_beginner;
+package dt_algorithm_beginner.array;
 import java.util.*;
 import java.util.stream.*;
 public class arrayExample1 {
