@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/annotation/custom/annotation/YearRange.java;C:/dev/zerobase/java/java_3/java3/src/annotation/custom/Car.java;C:/dev/zerobase/java/java_3/java3/src/annotation/custom/CarRequest.java;C:/dev/zerobase/java/java_3/java3/src/annotation/custom/CustomAnnotationMain.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/array/arrayExample1.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/array/arrayExample1_answer.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/array/arrayExample2_answer.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/array/arrayExample3_answer.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/array/arrayPractice.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/array/arrayPractice2.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/list/ArrayListWork.java;C:/dev/zerobase/java/java_3/java3/src/dt_algorithm_beginner/list/LinkedListWork.java;C:/dev/zerobase/java/java_3/java3/src/safeVarargs/SafeVaragsExample.java;C:/dev/zerobase/java/java_3/java3/src/suppresswarning/SuppressWarningExample.java" />
+  </component>
+</project>
